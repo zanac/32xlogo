@@ -1,0 +1,5 @@
+build/
+*.32x
+*.ppm
+__pycache__/
+sh-toolchain-build/
